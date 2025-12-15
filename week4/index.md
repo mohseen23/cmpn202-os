@@ -18,6 +18,6 @@ sudo sshd -T | grep -E "passwordauthentication|permitrootlogin|pubkeyauthenticat
 permitrootlogin no
 pubkeyauthentication yes
 passwordauthentication no
-
+```
 
 
